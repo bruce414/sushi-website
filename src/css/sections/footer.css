@@ -46,6 +46,7 @@
     height: 42px;
     background-color: var(--secondary-color);
     border-radius: 100%;
+    cursor: pointer;
 }
 
 .footer__nav li img {
